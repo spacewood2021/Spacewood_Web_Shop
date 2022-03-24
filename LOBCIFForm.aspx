@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="../plugins/daterangepicker/daterangepicker.css">
     <!-- Toastr -->
     <script src="../../plugins/toastr/toastr.min.js"></script>
-
+ <%--   script for open new window--%>
     <script language="javascript">
         var username = '';
         var ctrl
