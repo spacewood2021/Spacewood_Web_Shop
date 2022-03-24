@@ -55,7 +55,7 @@
         }
 
     </script>
-  <%--  Script for get Country--%>
+  <%--  Script for get Country Details--%>
     <script type="text/javascript">
         function GetCountry() {
 
